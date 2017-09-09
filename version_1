@@ -1,0 +1,17 @@
+set number
+set cursorline
+set showmatch
+set encoding=utf-8
+
+:highlight Normal ctermfg=white ctermbg=black
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set textwidth=79
+set expandtab
+set autoindent
+set fileformat=unix
+
+let python_highlight_all=1
+syntax on
